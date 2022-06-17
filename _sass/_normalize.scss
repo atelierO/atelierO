@@ -1,5 +1,5 @@
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
-
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 /* Document
    ========================================================================== */
 
@@ -22,6 +22,14 @@
 
 body {
   margin: 0;
+  font-family: "Noto Sans KR",monospace; /* 1 */;
+}
+
+span{
+  font-family: "Noto Sans KR",monospace;
+}
+div{
+  font-family: "Noto Sans KR",monospace;
 }
 
 /**
