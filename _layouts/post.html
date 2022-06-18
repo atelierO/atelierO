@@ -16,7 +16,7 @@ layout: page
     <span class="post_categories">
       &raquo; {% for cat_name in page.categories %}
       <a href="{{ site.baseurl }}/categories/{{ cat_name }}">{{ cat_name }}</a>{% if forloop.last == false %},
-      {% endif %}{% endfor %}
+      {% endif %}{% endfor %} 
     </span>
     {% endif %}
   </div>
@@ -26,7 +26,7 @@ layout: page
     {% if page.ccl %}
     <hr>
     <p style="text-align: right">
-      <img src="./assets/img/{{ page.ccl }}.svg"> <br>
+      <img src="{{ site.baseurl }}/assets/img/{{ page.ccl }}.svg"> <br>
       이 페이지의 저작물은 {{ page.ccl | upcase }} 2.0 KR에 따라 이용할 수 있습니다.
     </p>
     {% endif %}
