@@ -446,7 +446,7 @@ img {
     }
 
     @include mobile-only {
-        margin-top: 5.5rem;
+        margin-top: 6.2rem;
         &:after {
             content: '/';
             color: var(--nav_font);
