@@ -323,18 +323,18 @@ img {
 .header_circle {
     border: none;
     box-sizing: border-box;
-    height: 7rem;
-    width: 7rem;
+    height: 10rem;
+    width: 10rem;
     border-radius: 50%;
 
     img {
         @extend .header_circle;
     }
 
-    &:hover {
-        cursor: pointer;
-        animation: jiggle 2s ease-in-out infinite;
-    }
+    // &:hover {
+    //     cursor: pointer;
+    //     animation: jiggle 2s ease-in-out infinite;
+    // }
 
     @include mobile-only {
         bottom: 0;
@@ -349,6 +349,7 @@ img {
     margin-top: 2rem;
     color: var(--name_font);
     font-size: 2.3em;
+    font-weight: 500;
 }
 
 .header_job {
@@ -413,7 +414,7 @@ img {
 }
 
 .nav {
-    margin-top: 1.2rem;
+    margin-top: 1.1rem;
 
     @include mobile-only {
         display: none;
