@@ -178,14 +178,13 @@ img {
             float: none;
         }
     }
-    }
 
     @include mobile-only {
         margin-top: 2rem;
         margin-left: 1rem;
         margin-right: 1rem;
     }
-
+}
     
 
 ::-webkit-scrollbar {
@@ -447,7 +446,7 @@ img {
     }
 
     @include mobile-only {
-
+        margin-top: 5.5rem;
         &:after {
             content: '/';
             color: var(--nav_font);
