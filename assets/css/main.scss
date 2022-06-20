@@ -185,6 +185,24 @@ img {
         margin-right: 1rem;
     }
 }
+
+//===
+.img-circle{
+    border: none;
+    box-sizing: border-box;
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50% !important;
+}
+.aboutme-profile{
+    @include breakpoint(medium){
+        display: inline-block;
+    }
+    @include mobile-only{
+        display: block;
+    }
+}
+//===
     
 
 ::-webkit-scrollbar {
