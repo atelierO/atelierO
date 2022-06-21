@@ -2,6 +2,7 @@
 title: 오새벽 마우스 커서 
 categories: [오새벽]
 ccl : by-nc-sa
+writer : beatheat
 ---
 
 ![CURSOR_INTRO](https://cdn.discordapp.com/attachments/987651683687481394/987651807360729099/cursor_intro.png)
