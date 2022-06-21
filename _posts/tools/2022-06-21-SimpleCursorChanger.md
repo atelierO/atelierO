@@ -5,12 +5,14 @@ writer : beatheat
 ---
 
 
-[Download](https://github.com/atelierO/SimpleCursorChanger/releases/tag/v1.00)
+![Preview Image](https://raw.githubusercontent.com/atelierO/SimpleCursorChanger/main/img/preview.png)
 
 - 커서 이미지 파일 간단하게 교체하는 프로그램입니다
 -  Program for changing cursor image simply
 
-![Preview Image](https://raw.githubusercontent.com/atelierO/SimpleCursorChanger/main/img/preview.png)
+[Download](https://github.com/atelierO/SimpleCursorChanger/releases/download/v1.00/SimpleCursorChangerGUI.exe) /
+[Github Release](https://github.com/atelierO/SimpleCursorChanger/releases/tag/v1.00) /
+[Github Source](https://github.com/atelierO/SimpleCursorChanger)
 
 사용법 / Usage
 ===
