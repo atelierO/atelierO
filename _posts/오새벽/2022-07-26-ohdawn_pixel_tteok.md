@@ -1,5 +1,5 @@
 ---
-title: 떡복이 먹는 새벽이 도트
+title: 떡복이 먹는 새벽이 (pixel art)
 categories: [오새벽]
 ccl : by-nc-sa
 writer : beatheat
