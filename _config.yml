@@ -21,8 +21,8 @@ user:
   name: 오! 공방
   pic: /assets/img/logo2.png
   picAlt: "오공방 그림"
-  job: V시대의 거대한 흐름이<br>우리를 인도한다
-  # message: "모든 버튜버의 유일한 구원"
+  # job: 
+  message: "<a style='color : #46a891;' href='https://github.com/atelierO'>깃헙</a> <a style='color : #46a891;' href='https://twitter.com/bituhitu'>트위터</a>"
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
