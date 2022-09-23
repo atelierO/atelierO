@@ -28,7 +28,3 @@ Windows 10/11 환경에서만 실행됩니다.
 4. Apply를 눌러 적용합니다.
 5. Cursor Size를 바꾸어 Apply하며 적절한 사이즈를 찾습니다.
 
-
-수정사항
----
-SimplCursorChanger 포함해서 배포
