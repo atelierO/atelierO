@@ -1,6 +1,6 @@
 ---
 title: SimpleCursorChanger
-categories: [tools]
+categories: [개발]
 writer : beatheat
 ---
 

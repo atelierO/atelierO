@@ -1,6 +1,6 @@
 ---
 title: 떡복이 먹는 새벽이 (pixel art)
-categories: [오새벽]
+categories: [그림]
 ccl : by-nc-sa
 writer : beatheat
 ---

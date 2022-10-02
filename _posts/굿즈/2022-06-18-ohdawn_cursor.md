@@ -1,6 +1,6 @@
 ---
 title: 오새벽 마우스 커서-v1.01
-categories: [오새벽]
+categories: [굿즈]
 ccl : by-nc-sa
 writer : beatheat
 ---

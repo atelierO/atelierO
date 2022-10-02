@@ -1,6 +1,6 @@
 ---
 title: 오새벽 장패드!!!
-categories: [오새벽]
+categories: [굿즈]
 ccl : by-nc-sa
 writer : beatheat
 ---
