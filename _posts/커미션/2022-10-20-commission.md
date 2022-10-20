@@ -3,6 +3,7 @@ title: 마우스 커서 커미션 공지
 categories: [커미션]
 ccl : by-nc-nd
 writer : beatheat
+permalink: commission
 ---
 
 ## 마우스 커서 커미션
